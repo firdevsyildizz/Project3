@@ -1,6 +1,8 @@
 package HastaneOtomasyon;
 
-public class C01_Doktor {
+
+public class Doktor {
+
     private String isim;
     private String soyIsim;
     private String unvan;
@@ -24,5 +26,6 @@ public class C01_Doktor {
     public void setUnvan(String unvan) {
         this.unvan = unvan;
     }
+
 
 }
